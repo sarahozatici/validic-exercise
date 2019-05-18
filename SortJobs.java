@@ -42,6 +42,7 @@ public class SortJobs {
             }
         }
         print();
+        //if you don't want to run the tests at the end, comment out the next line
         runTests();
     }
 
